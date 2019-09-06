@@ -1,0 +1,50 @@
+.blue{
+  background-image: url('../img/blue.jpg');
+  padding: 3.75rem;
+}
+.navi {
+    background-image: url('../img/blue.jpg');
+}
+
+span{
+  font-family: 'Manjari', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+}
+
+body{
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+}
+
+.hero{
+  font-family: 'Manjari', sans-serif;
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+  background-image: url('../img/bg_hero.png');
+  background-size: cover;
+  background-color: #707070;
+  color: #ffffff;
+  padding-top:23.5rem;
+}
+/* font-family: 'Manjari', sans-serif; */
+/* font-family: 'Playfair Display', serif; */
+.exp{
+  text-align: center;
+}
+
+.exp i {
+color: 	#2C75FF;
+}
+
+footer{
+  background-color: #2C75FF;
+  color: #ffffff;
+  white-space: nowrap;
+  padding: 3rem;
+}
+h1{
+  font-family: 'Manjari', sans-serif;
+  font-weight: 700;
+}
